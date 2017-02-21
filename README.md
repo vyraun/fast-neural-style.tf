@@ -23,6 +23,9 @@ Tensorflow(>= r0.11), Numpy, Scipy, Pillow
 ```{bash}
 python render.py --input $INPUT_IMAGE --output $OUTPUT_FILE_NAME --model $MODEL_NAME --arch $GENERATOR_ARCH
 ```
+Example: python render.py --input 1.jpg --model models/wave.model
+
+(Python 3.5, Windows, Conda Installation)
 
 ## Training
 Coming soon.
