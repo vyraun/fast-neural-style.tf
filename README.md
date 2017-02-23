@@ -25,6 +25,8 @@ python render.py --input $INPUT_IMAGE --output $OUTPUT_FILE_NAME --model $MODEL_
 ```
 Example: python render.py --input 1.jpg --model models/wave.model
 
+More Models: composition_v , feathers , la_muse , mosaic , the scream , udnie , cubist  
+
 (Python 3.5, Windows, Conda Installation)
 
 ## Training
